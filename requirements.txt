@@ -1,0 +1,13 @@
+streamlit
+streamlit-sortables
+requests
+pandas
+plotly
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+pydantic-settings
+python-dotenv
+python-multipart
